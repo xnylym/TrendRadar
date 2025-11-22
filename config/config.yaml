@@ -111,6 +111,8 @@ platforms:
     name: "MKT新闻"
   - id: "kaopu"
     name: "靠谱新闻"
+  - id: "tencent"
+    name: "腾讯新闻"
 
   # === 财经投资类 ===
   - id: "wallstreetcn-hot"
@@ -136,7 +138,7 @@ platforms:
   - id: "douyin"
     name: "抖音"
   - id: "bilibili-hot-search"
-    name: "bilibili 热搜"
+    name: "bilibili 热搜"  
   - id: "tieba"
     name: "贴吧"
   - id: "zhihu"
@@ -165,8 +167,8 @@ platforms:
     name: "少数派"
   - id: "producthunt"
     name: "ProductHunt"
-  - id: "coolapk"  
-    name: "酷安"
+  - id: "steam"    
+    name: "steam"
 
   # === 其他/工具类 ===
   - id: "chongbuluo"
